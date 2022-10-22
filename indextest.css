@@ -1,0 +1,7 @@
+body {
+    --color: #aaa;
+    --background: #000;
+    --size: 2;
+    --glow: 1;
+    --animation: terminal-none;
+}
